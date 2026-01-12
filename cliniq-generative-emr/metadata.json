@@ -1,0 +1,7 @@
+{
+  "name": "CliniQ - Generative EMR",
+  "description": "A dynamic, AI-powered Electronic Medical Record system that generates UI components based on doctor-patient context and voice/text commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
